@@ -41,7 +41,7 @@ Requirements to run SafeMode:
   following or preceding file. 
 
 **If this program is run in a folder not using this setup files will be 
-improperly named and any without an number will lose their file extension 
+improperly named and any without a number will lose their file extension 
 and randomly numbered as well.
  
 3a)In order to run this program you will have to right click the
