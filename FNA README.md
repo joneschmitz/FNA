@@ -1,3 +1,4 @@
+<pre>
 ======================================================================
 =============== Folder Numbering Assistant Information ===============
 ======================================================================
@@ -104,3 +105,4 @@ Also, please do not modify this program without first asking.
 If you find any errors or have any suggestions for improvement
 you can contant me at csnmocchi@gmail.com.
 ======================================================================
+</pre>
