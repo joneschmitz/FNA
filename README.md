@@ -1,6 +1,6 @@
 <pre>
 ======================================================================
-=============== Folder Numbering Assistant Information ===============
+================ File Numbering Assistant Information ================
 ======================================================================
 ====================== Important Note ================================
 By reading this information you acknowledge that use of this program
