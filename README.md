@@ -59,36 +59,32 @@ Windows 7 or an earlier version of Windows.
 
 3c)To use as an executable I have included a batch shortcut that will run
    the program as long is it is in the same folder location. This will
-   only run if you have PowerShell v1.0 on your system. If you do not it
-   will simply stop running. See known issues on how to resolve this
-   issue.
+   only run if you have PowerShell v1.0 on your system. If you do not, it
+   will simply stop running.
 
-4)Following the onscreen prompts.
+4)Following the onscreen prompts. (After all, it's not a user friendly
+  program if you have to enter all the settings when calling the 
+  executable)
 
 ======================================================================
 ======================== Known Issues ================================
 SafeMode:
 	The larger the files in the designated folder are, the
 	longer it will take to make copies of them.
-	- Please be patient for this process to complete and then
-	ask you for verification on the new file names.
+	- Please be patient for this process to complete. It will
+	then ask you for verification on the new file names.
 
 Application:
 	When running this program in SafeMode, it will create copies
 	in reverse order, last to first. This is normal and will not
 	effect the order of the files after the program finishes.
 
-FNA.exe shortcut closes instantly:
-	First make sure FNA_V1.x.ps1, x being current version number
-	1 - 9, is in the same folder as FNA.exe.
-	Next, right click FNA.exe and select 'Properties'. In the
-	'Target:' box delete everything that comes before 'powershell.exe'.
-	Press [Enter] and it should automatically adjust for the current
-	version of powershell on your system.
-
-	If you wish to move FNA.exe somewhere else and keep the .ps1
-	file separate, enter the folder location of the .ps1 in
-	FNA.exe's 'Start in:' box under 'Properties'.
+Moving FNA.exe.bat
+	If you wish to move FNA.exe.bat somewhere else and keep the 
+	.ps1 file in a separate location, edit the .bat file in a
+	text editor and change .\FNA_V1.x.ps1 to the full path of
+	where you are storing the .ps1 file.
+	EX: "C:\Program Files\FNA\FNA_V1.x.ps1"
 	
 ======================================================================
 ===================== Author's Comments ==============================
@@ -103,6 +99,6 @@ it.
 Also, please do not modify this program without first asking.
 
 If you find any errors or have any suggestions for improvement
-you can contant me at csnmocchi@gmail.com.
+you can contact me at csnmocchi@gmail.com.
 ======================================================================
 </pre>
