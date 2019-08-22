@@ -162,7 +162,7 @@ function remove{
     }
     if($a -eq 2){Exit}
 }#uses: inputted mode result: files matching pattern are removed
-#function newFilename{
+#function newFilename{ #This section may be properly implemented in later versions
 #    remove 3
 #    $nfn = Read-Host "Enter new filename. (Must contain a number)`n>"
 #    #filename verification *\d* and *$ext
