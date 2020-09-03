@@ -75,9 +75,9 @@ SafeMode:
 	then ask you for verification on the new file names.
 
 Application:
-	When running this program in SafeMode, it will create copies
-	in reverse order, last to first. This is normal and will not
-	effect the order of the files after the program finishes.
+	When running this program, it will create copies in reverse 
+	order, last to first. This is normal and will not effect 
+	the order of the files after the program finishes.
 
 Moving FNA.exe.bat
 	If you wish to move FNA.exe.bat somewhere else and keep the 
