@@ -62,7 +62,7 @@ Windows 7 or an earlier version of Windows.
    only run if you have PowerShell v1.0 on your system. If you do not, it
    will simply stop running.
 
-4)Following the onscreen prompts. (After all, it's not a user friendly
+4)Follow the onscreen prompts. (After all, it's not a user friendly
   program if you have to enter all the settings when calling the 
   executable)
 
